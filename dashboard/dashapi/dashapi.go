@@ -3,7 +3,7 @@
 
 // Package dashapi defines data structures used in dashboard communication
 // and provides client interface.
-package dashapi
+package dashapiф
 
 import (
 	"bytes"
